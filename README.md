@@ -6,6 +6,7 @@ Un bypass avanzado para sistemas de detección de archivos específicamente dise
 An advanced file detection system bypass specifically designed for GSClient.
 
 ---
+![203B94~1](https://github.com/user-attachments/assets/9aba3ede-f224-4dd2-a3c6-cea6adfa5f62)
 
 ## Instalación | Installation
 
