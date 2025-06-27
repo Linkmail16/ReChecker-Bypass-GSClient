@@ -142,4 +142,4 @@ The system prioritizes detection of:
 
 ## Enlaces útiles | Useful links
 - [Microsoft Detours](https://github.com/Microsoft/Detours)
-- [[GSClient](https://gsclient.com/)]
+- [GSClient](https://gsclient.com/)
